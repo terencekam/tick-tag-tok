@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\FPC\3.2.0\bin\i386-Win32\fpc.exe" Date="1355043128"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Users\terence\Desktop\git\lib\i386-win32 -FuC:\Users\terence\Desktop\git\ -FUC:\Users\terence\Desktop\git\lib\i386-win32\ -FEC:\Users\terence\Desktop\git\ -oC:\Users\terence\Desktop\git\sba.exe sba.pas"/>
+</CONFIG>
